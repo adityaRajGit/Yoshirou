@@ -1,2 +1,2 @@
 # Yoshirou
-Robotic hand 
+
